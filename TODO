@@ -1,0 +1,14 @@
+0(Task Pool)
+- file handling (
+   - saving secrect keys
+   - Database for passwords
+)
+
+(May Pool)
+- basic encryption/decryption (AES)
+
+(Jerk Pool)
+(Luke Pool)
+- user interface
+    - command line interface prompt
+    - list passwords 
